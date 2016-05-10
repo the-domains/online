@@ -1,0 +1,28 @@
+name: Online
+favicon: null
+layout_spectrum: 0.970861674984917
+typography_spectrum: 0.7218664267566055
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4532495578750968
+  lightness: 0.2432709038257599
+  saturation: 0.298557999311015
+  rhythmicContrast: 0.9859371657948941
+purpose: []
